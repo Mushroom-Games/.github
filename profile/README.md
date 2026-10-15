@@ -11,9 +11,9 @@ creative and engaging interactive experiences.
 
 Our current game development project.
 
-- Genre: 2D Platformer
-- Engine: Unity
-- Team: Mushroom Games
+- ⚙️ Engine: Unity
+
+A 2D action-platformer adventure where a young frog bard uses music, instruments, and magical note combinations to awaken enemies, solve puzzles, and restore harmony to the fantasy world of Stave.
 
 ## Team 👥
 

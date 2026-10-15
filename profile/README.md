@@ -1,13 +1,13 @@
-# Mushroom Games
+# Mushroom Games 🍄
 
-🎮 Game Development Team
+🎮 Game Development Team 🛠️
 
 We are a student game development team focused on creating
 creative and engaging interactive experiences.
 
 ## Projects
 
-### 🍄 Song Keeper
+### 🎵 Song Keeper
 
 Our current game development project.
 
@@ -15,7 +15,7 @@ Our current game development project.
 - Engine: Unity
 - Team: Mushroom Games
 
-## Team
+## Team 👥
 
 - Leonardo
 - Biella

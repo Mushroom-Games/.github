@@ -7,13 +7,13 @@ creative and engaging interactive experiences.
 
 ## Projects
 
-### 🎵 Song Keeper
+### 🎵 Elementoad
 
 Our current game development project.
 
 - ⚙️ Engine: Unity
 
-A 2D action-platformer adventure where a young frog bard uses music, instruments, and magical note combinations to awaken enemies, solve puzzles, and restore harmony to the fantasy world of Stave.
+A 2D action-platformer adventure where a young wizard frog uses elements, spells, and element combinations to destroy enemies, solve puzzles, and restore harmony to the fantasy world of Stave.
 
 ## Team 👥
 
@@ -25,4 +25,3 @@ A 2D action-platformer adventure where a young frog bard uses music, instruments
 - Lucas
 - Cado
 - Eli
-- Hunter

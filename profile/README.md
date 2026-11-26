@@ -13,7 +13,7 @@ Our current game development project.
 
 - ⚙️ Engine: Unity
 
-A 2D action-platformer adventure where a young wizard frog uses elements, spells, and element combinations to destroy enemies, solve puzzles, and restore harmony to the fantasy world of Stave.
+A 2D action-platformer adventure where a young wizard frog uses and elemental combinations to defeat enemies, solve puzzles, and restore harmony to the fantasy world of Stave.
 
 ## Team 👥
 
